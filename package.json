@@ -1,0 +1,17 @@
+{
+  "name": "eod_telegram",
+  "version": "0.0.2",
+  "description": "Telegram Bot",
+  "main": "./index.js",
+  "author": "Teguh Kings",
+  "license": "MIT",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telebot": "^1.2.6"
+  }
+}
